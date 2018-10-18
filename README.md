@@ -1,6 +1,8 @@
 # Terminal-Backgammon-in-Java
-A local 1v1 terminal backgammon game developed in Java. 
+A local 1v1 terminal backgammon game developed in Java. Includes use of ANSI colors to change the appearance of the terminal. OOP-oriented.
 
-To run, first compile Gameboard (javac Gameboard.java), then compile Backgammon (javac Backgammon.java), then run it (java Backgammon).
+Future work: add a menu/score/tutorial system. Add an AI system.
 
-Currently includes the game logic, will add a menu/score/tutorial (read rules from a file). Maybe add AI (later).
+To run: first compile Gameboard (javac Gameboard.java), then compile Backgammon (javac Backgammon.java), then run it (java Backgammon).
+
+Developed during the first year at the Uni. of Warwick (2017)
