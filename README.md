@@ -5,4 +5,4 @@ Future work: add a menu/score/tutorial system. Add an AI system.
 
 To run: first compile Gameboard (javac Gameboard.java), then compile Backgammon (javac Backgammon.java), then run it (java Backgammon).
 
-Developed during the first year at the Uni. of Warwick (2017)
+Developed during my first year at the Uni. of Warwick (2017).
